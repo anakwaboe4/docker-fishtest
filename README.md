@@ -5,7 +5,7 @@ Docker image to run and contribute with FishTest (https://github.com/glinscott/f
 
 [![Docker Stars](https://img.shields.io/docker/stars/laurentaerens/fishtest.svg?maxAge=2592000)]()
 [![Docker Pulls](https://img.shields.io/docker/pulls/laurentaerens/fishtest.svg?maxAge=2592000)]()
-[![](https://images.microbadger.com/badges/image/laurentaerens/fishtest.svg)](http://microbadger.com/images/laurentaerens/fishtest)
+<a href="https://github.com/anakwaboe4/docker-fishtest/tree/laurentaerens"><img src="https://img.shields.io/badge/code-%40anakwaboe4-blue"/></a>
 
 Running FishTest
 --------------------------------------
